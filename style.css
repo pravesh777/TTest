@@ -1,0 +1,91 @@
+/* General Styles */
+body {
+  font-family: 'Kantumruy Pro', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #88b0d8; /* Changed to white */
+  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Quiz Container */
+#quiz-container {
+  text-align: center;
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  max-width: 500px;
+  width: 100%;
+}
+
+#question-container, #result-container {
+  margin-top: 20px;
+}
+
+#question {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+
+#answer {
+  padding: 10px;
+  width: 80%;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Button Styles */
+button {
+  background: #28a745; /* Green */
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+button:hover {
+  background: #218838;
+}
+
+/* Timer */
+#time {
+  margin-top: 10px;
+  font-size: 0.9em;
+  color: #555;
+}
+
+/* Results */
+#result-container {
+  font-family: 'Verdana', serif; /* Updated font for results */
+}
+
+#score {
+  font-size: 1.5em;
+  margin-top: 20px;
+}
+
+#wrong-answers {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 10px;
+}
+
+#wrong-answers li {
+  margin-bottom: 8px;
+  margin-bottom: 16px;
+}
+#wrong-answers li strong {
+  font-weight: bold; /* Ensures the question type in the results is bold */
+}
+.MathJax {
+  font-family: 'Kantumruy Pro', sans-serif !important; /* Replace with your preferred font */
+  line-height: 1.5; /* Add spacing between lines if needed */
+}

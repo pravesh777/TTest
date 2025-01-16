@@ -1,0 +1,38 @@
+{
+    "(Bodmas + linear equation)": [
+      { "question": "4 – (8 ÷ 2 -3x –(-4 + x)) = 12 <br> Solve for x", "answer": "4" },
+      { "question": "(32 – 8x) – (4x – 3) + (2x + 3) = 8 <br> Solve for x", "answer": "3" },
+      { "question": "(41 – 8x + 3y ) – ( 6y +4x ) + (3y – 8÷2) = -1 <br> Solve for x", "answer": "3" },
+      { "question": "(52 – (36 ÷ 12)) – (8 -3x + (-2x)) = 1 <br> Solve for x", "answer": "-8" },
+      { "question": "(32 – 16 - 8 - 4x) ÷ 2 = 8 <br> Solve for x", "answer": "-2" }
+    ],
+    "(trigonometry fundamentals)": [
+      { "question": "If tan A = $\\frac{3}{4}$, <br> Find secA", "answer": "5/3" },
+      { "question": "If sec B = $\\frac{5}{4}$, <br> Find cosB", "answer": "4/5" },
+      { "question": "If cosec C = $\\frac{10}{8}$, <br> Find tanC", "answer": "4/3" },
+      { "question": "If cot D = $\\frac{24}{7}$,<br> Find secD", "answer": "25/7" },
+      { "question": "If sec C = $\\frac{5}{3}$, <br> Find sinC", "answer": "4/5" }
+    ],
+    "(Identities)": [
+      { "question": "If a + b = 5, ab = 6, <b> find $a^2 + b^2$", "answer": "13" },
+      { "question": "Evaluate $(5-x+\\frac{2}{x})^2$", "answer": "" },
+      { "question": " Find the value of $(2a + 3)^2-(2a - 3)^2$", "answer": "24a" },
+      { "question": "If $(a-\\frac{1}{a})=4$, find $(a^2+\\frac{1}{a^2})$", "answer": "18" },
+      { "question": "Find the square of (x + 3y) and subtract it from the square of (x – 3y)", "answer": "-12xy" }
+    ],
+    " (Simultaneous linear equations)": [
+      { "question": "Each side of a square is 44cm. Find it’s perimeter. If this perimeter is equal to the circumference of a circle, find the radius of the circle.", "answer": "28" },
+      { "question": "Find the radius of the circle whose circumference is equal to the sum of  circumferences of the circles having radii 15cm and 8cm.", "answer": "23cm" },
+      { "question": "The length and breadth of a rectangle are 36cm and 28cm. If its perimeter is equal  to the perimeter of a square, find the side of the square.", "answer": "32cm" },
+      { "question": "A metal wire, when bent in the form a square of largest area, encloses an area of $484cm^2$ . If the same wire is bent to a largest circle, find the radius of the circle formed.", "answer": "14cm" },
+      { "question": "Find the area of a right angled triangle whose hypotenuse is 13cm long and one of its  legs is 12cm long.", "answer": "30cm^2" }
+    ],
+    "(Simultaneous linear equations)": [
+      { "question": "Find the value of x and y:<br>3x + 4y = 11<br>2x + 3y = 8", "answer": "x=1,y=2" },
+      { "question": "Find the value of x and y:<br>8x – 5y = 9<br>3x + 2y = 4", "answer": "x=1.22,y=0.17" },
+      { "question": "Find the value of x and y:<br>4x – 3y -11 = 0<br>6x – 7y – 5 = 0", "answer": "x=6.2,y=4.6" },
+      { "question": "Find the value of x and y:<br>4x – 3y =0<br>2x + 6y = 18", "answer": "x=1.8,y=2.4" },
+      { "question": "Find the value of x and y:<br>x – y +2 = 0<br>7x + 9y = 130", "answer": "x=7,y=9" }
+    ]
+  }
+  

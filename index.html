@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <title>Quiz Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="quiz-container">
+    <div id="question-container">
+      <p id="question"></p>
+      <input type="text" id="answer" placeholder="Your answer here" />
+      <button id="next-btn">Next</button>
+    </div>
+    <div id="result-container" style="display: none;">
+      <h2>Results</h2>
+      <p id="score"></p>
+      <ul id="wrong-answers"></ul>
+    </div>
+    <p id="time"></p>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
